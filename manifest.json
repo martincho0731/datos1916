@@ -1,0 +1,22 @@
+{
+    "name": "Registro Lista 1916",
+    "short_name": "Lista 1916",
+    "description": "Aplicación PWA para registrar personas en la Lista 1916",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff0000",
+    "icons": [
+      {
+        "src": "icons/icon 192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon 512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
